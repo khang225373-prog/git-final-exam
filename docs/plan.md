@@ -10,3 +10,7 @@
 
 Ngày bắt đầu: 02/10/2025  
 Ngày kết thúc: 08/10/2025
+- Hoàn thành bài tập Git cơ bản
+- Thực hành stash thay đổi nhiều lần
+- Ghi nhớ cách dùng git diff và git log
+- Chuẩn bị thi cuối kỳ
