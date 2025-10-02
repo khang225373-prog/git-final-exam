@@ -11,6 +11,7 @@
 Ngày bắt đầu: 02/10/2025  
 Ngày kết thúc: 08/10/2025
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
@@ -32,4 +33,9 @@ Ngày kết thúc: 08/10/2025
 - Thực hành merge nhiều lần
 >>>>>>> 1c6c7f5f9fb3cd728a45c71d54b40f0ca1acfa9d
 =======
+>>>>>>> Stashed changes
+=======
+- Ôn lại lệnh git reset
+- Ôn lại lệnh git revert
+
 >>>>>>> Stashed changes
