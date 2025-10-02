@@ -10,3 +10,7 @@
 
 Ngày bắt đầu: 02/10/2025  
 Ngày kết thúc: 08/10/2025
+- Hoàn thành bài tập Git
+- Ôn lại lệnh stash
+- Chuẩn bị cho bài kiểm tra
+- Thực hành merge nhiều lần
