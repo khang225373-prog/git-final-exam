@@ -1,4 +1,6 @@
 Hello, this is <Phan Duy Khang>
+Xin chào, tôi là <Phan Duy Khang>
+Conflict resolved on 02/10/2025
 Giới thiệu cá nhân:
 Tôi tên là Phan Duy Khang, hiện đang là sinh viên CNTT.
 Tôi sinh ra và lớn lên tại Kiên Giang.
