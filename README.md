@@ -1,6 +1,6 @@
 Tên đề thi: Git Final Exam
-Họ tên: Nguyễn Văn A
-MSSV: 12345678
+Họ tên: Phan Duy Khang
+MSSV: 225373
 Ngày làm bài: 02/10/2025
 
 ## Mục tiêu
