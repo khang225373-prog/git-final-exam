@@ -1,7 +1,0 @@
-## Tính năng mới: Quản lý học tập
-
-1. Cho phép thêm kế hoạch học tập cá nhân.
-2. Hiển thị tiến độ hoàn thành theo ngày.
-3. Cảnh báo khi chưa hoàn thành mục tiêu.
-4. Cho phép đồng bộ với Google Calendar.
-5. Gửi thông báo nhắc nhở qua email.

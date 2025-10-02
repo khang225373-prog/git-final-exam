@@ -1,5 +1,0 @@
-- Git giúp quản lý phiên bản dễ dàng
-- Git hỗ trợ làm việc nhóm hiệu quả
-- Git giúp khôi phục code khi gặp sự cố
-- Git giúp lưu lịch sử code rõ ràng
-- Git rất phổ biến trong lập trình hiện nay
