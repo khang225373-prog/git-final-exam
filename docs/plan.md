@@ -10,6 +10,7 @@
 
 Ngày bắt đầu: 02/10/2025  
 Ngày kết thúc: 08/10/2025
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 - Hoàn thành bài tập Git cơ bản
 - Thực hành stash thay đổi nhiều lần
@@ -20,3 +21,9 @@ Ngày kết thúc: 08/10/2025
 - Ôn lại lệnh git revert
 
 >>>>>>> Stashed changes
+=======
+- Hoàn thành bài tập Git
+- Ôn lại lệnh stash
+- Chuẩn bị cho bài kiểm tra
+- Thực hành merge nhiều lần
+>>>>>>> 1c6c7f5f9fb3cd728a45c71d54b40f0ca1acfa9d
