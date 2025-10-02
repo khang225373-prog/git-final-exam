@@ -14,3 +14,11 @@ Kỹ năng:
 - Lập trình Python cơ bản
 - Sử dụng Git và GitHub
 - Làm việc nhóm
+
+Kế hoạch học tập:
+- Ôn tập kiến thức Git mỗi ngày.
+- Thực hành viết code và quản lý repo.
+- Tìm hiểu thêm về Git branching, merge, rebase.
+- Học cách giải quyết conflict trong Git.
+- Ứng dụng Git vào các project nhóm thực tế.
+
