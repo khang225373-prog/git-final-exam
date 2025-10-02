@@ -10,7 +10,13 @@
 
 Ngày bắt đầu: 02/10/2025  
 Ngày kết thúc: 08/10/2025
+<<<<<<< Updated upstream
 - Hoàn thành bài tập Git cơ bản
 - Thực hành stash thay đổi nhiều lần
 - Ghi nhớ cách dùng git diff và git log
 - Chuẩn bị thi cuối kỳ
+=======
+- Ôn lại lệnh git reset
+- Ôn lại lệnh git revert
+
+>>>>>>> Stashed changes
