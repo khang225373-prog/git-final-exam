@@ -1,3 +1,4 @@
+Hello, this is <Phan Duy Khang>
 Giới thiệu cá nhân:
 Tôi tên là Phan Duy Khang, hiện đang là sinh viên CNTT.
 Tôi sinh ra và lớn lên tại Kiên Giang.
